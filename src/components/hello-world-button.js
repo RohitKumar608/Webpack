@@ -1,4 +1,4 @@
-import './hello-world-button.scss';
+import './hello-world-button.css';
 
 class HelloWorldButton {
     buttonCssClass = 'hello-world-button';
